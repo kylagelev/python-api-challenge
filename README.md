@@ -1,1 +1,3 @@
 # APIs-challenge
+Collected and sparsed through data from weather API. Created dataframe that includes city, country, latitude, longitude, date, and a series of weather conditions such as: Max_Temp, Humidity, Cloudiness, Wind_Speed. Evaluated weather conditions with latitude using matplotlib and pandas to create scatterplots (of both Southern and Northern Hemisphere latitudes, and combined hemisphere latitude) with corresponding analysis. 
+Used data to filter out ideal weather conditions to vacation to, and found hotels in a 5000 meter radius of each city. Displayed onto gmap with heatlayer and markers. 
